@@ -1,0 +1,146 @@
+body{
+   
+	background-image: url(https://2.bp.blogspot.com/-FWWimD7PQQo/VikFsYlwZOI/AAAAAAAAAAw/VuCLFaQ97QE/s1600/paisaje.jpg);
+	
+}
+.contenedor {
+    display: flex;
+    
+}
+.text-1 {
+    margin: 0px 50px;
+}
+.text-2{
+	margin-left: 20px;
+}
+.img {
+  border-radius: 50%;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+h1{
+    color: blue;
+}
+.head{
+    text-align: center;
+}
+.eloy {
+    display: flex;
+
+}
+h2{
+    color: blue;
+}
+.icon{
+	margin-left: -35px;
+	
+}
+
+#experiencia {
+    background: blanchedalmond;
+    padding: 10px;
+    color: black;
+    text-transform: uppercase;
+}
+#experiencia-contenedor{
+    margin-right: 20px;
+    display: grid;
+    grid-template-columns: 1fr 4fr 4fr;
+}
+
+.rith{
+    margin-left: -80px;
+
+}
+.eloy{
+    text-align: center;
+}
+.right_inner{
+	padding: 30px;
+	color: #292b2f;
+	margin-top: -20px;
+}
+
+.right_inner .education{
+	margin-top: 30px;
+}
+
+.right_inner .li_wrap{
+	display: flex;
+	margin-bottom: 15px;
+}
+
+.right_inner .li_wrap .date {
+    width: 125px;
+    color: #0d0d0e;
+}
+
+
+.right_inner .li_wrap .info_title{
+	text-transform: uppercase;
+	font-weight: 700;
+	letter-spacing: 2px;
+	color: #171718;
+}
+
+.exp_wrap{
+	margin-left: 70px;
+}
+.correlon{
+	
+	margin-left: 200px;
+	background-color: rgb(241, 248, 248);
+	margin-right: 200px;
+	margin-top: 20px;
+}
+
+.date{
+	margin-top: 17px;
+	
+
+}
+.info{
+	margin-left: 20px;
+}
+.yuyu{
+	margin-left: 30px;
+	margin-top: -50px;
+}
+#contactowhatsapp{
+    width: 60px;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+	margin-right: 210px;
+	
+}
+.marte{
+	margin-left: 210px;
+	margin-top: -40px;
+
+}
+.queso{
+	background-color: #171718;
+}
+.terr{
+	color: azure;
+	text-align: center;
+}
+.habilidades{
+	margin-left: 55px;
+	
+}
+.vertical-line {
+	position: absolute;
+	left: 50%; 
+	top: 0;
+	bottom: 0;
+	width: 25px; 
+	height: 1357px;
+	background-color: rgb(5, 48, 241); 
+	content: ""; 
+	margin-left: -470px;
+	margin-top: 20px;
+	
+}
